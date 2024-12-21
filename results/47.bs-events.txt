@@ -1,0 +1,28 @@
+# Marker IDs can be arbitrary strings.
+# Marker ID,	Time (in s)
+_ch0_neuron0,	0.7012
+_ch0_neuron0,	1.4856
+_ch0_neuron0,	2.3015
+_ch0_neuron0,	3.1362
+_ch0_neuron0,	3.9280
+_ch0_neuron0,	4.7214
+_ch0_neuron0,	5.4902
+_ch0_neuron0,	6.2320
+_ch0_neuron0,	6.9135
+_ch0_neuron0,	7.5534
+_ch0_neuron0,	8.1913
+_ch0_neuron0,	8.8441
+_ch0_neuron0,	9.5147
+_ch0_neuron0,	10.1666
+_ch0_neuron0,	10.8104
+_ch0_neuron0,	11.4962
+_ch0_neuron0,	12.2459
+_ch0_neuron0,	12.9723
+_ch0_neuron0,	13.7562
+_ch0_neuron0,	14.5521
+_ch0_neuron0,	15.3155
+_ch0_neuron0,	16.0073
+_ch0_neuron0,	16.7226
+_ch0_neuron0,	17.4676
+_neuron0threshhig15401,	0.0000
+_neuron0threshlow8183,	0.0000
